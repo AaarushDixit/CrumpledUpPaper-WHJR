@@ -1,2 +1,1 @@
-# CrumpledUpPaper-WHJR
-paper
+# CP-2
